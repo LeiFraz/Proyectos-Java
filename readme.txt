@@ -1,1 +1,1 @@
-asdasdwasdw
+Junto al nuevo equipo daremos comienzo a una serie de proyectos para ir practicando/repasando JAVA, a medida que vamos terminando un proyecto subimos el nivel y su complejidad. Obviamente al principio el proposito será hacer programas chicos y simples de gestion (ABM y listados).
